@@ -8,7 +8,8 @@
     "theme"
   ],
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["background.js"],
+    "persistent": false
   },
   "version": "1.0",
   "browser_specific_settings": {
