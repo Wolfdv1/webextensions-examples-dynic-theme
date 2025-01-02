@@ -14,6 +14,7 @@
   "version": "1.0",
   "browser_specific_settings": {
     "gecko": {
+      "id": "dan@danw.pl",
       "strict_min_version": "55.0a2"
     }
   }
